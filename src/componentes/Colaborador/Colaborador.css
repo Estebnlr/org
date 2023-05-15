@@ -9,7 +9,8 @@
     border-radius: 10px 10px 0px 0px;
 }
 .colaborador img {
-    width: 100px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     position: relative;
     bottom: -50px;

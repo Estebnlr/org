@@ -1,9 +1,10 @@
 .formulario{
     display: flex;
     justify-content: space-evenly;
-    margin: 80px 50px;
+    margin: 3rem;
     flex-wrap: wrap;
     gap: 20px;
+    position: relative;
 }
 
 .formulario form{
@@ -16,6 +17,8 @@
 
 .formulario h2{
     font-size: 32px;
+    padding: 1rem;
+    text-align: center;
     font-weight: 400;
     color: #212121;
 }
