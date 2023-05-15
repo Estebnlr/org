@@ -5,6 +5,7 @@ import ListaOpciones from "../ListaOpciones";
 import Boton from "../Boton";
 import { FcExpand } from "react-icons/fc";
 
+
 const Formulario = (props) => {
   
     
@@ -56,8 +57,7 @@ const Formulario = (props) => {
                 titulo="Foto" 
                 placeholder="Ingresar enlace de foto" 
                 required valor={foto} 
-                type="file"
-                actualizarValor={actualizarFoto} 
+                actualizarValor={actualizarFoto}  
             />
             <ListaOpciones 
                 valor={equipo}
