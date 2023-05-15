@@ -14,7 +14,8 @@
 }
 
 .orgSection img{
-    position: absolute;
-    right: 30px;
+    display: flex;
+    
     cursor: pointer;
+    
 }
