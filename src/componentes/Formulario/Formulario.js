@@ -56,6 +56,7 @@ const Formulario = (props) => {
                 titulo="Foto" 
                 placeholder="Ingresar enlace de foto" 
                 required valor={foto} 
+                type="file"
                 actualizarValor={actualizarFoto} 
             />
             <ListaOpciones 

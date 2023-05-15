@@ -33,7 +33,7 @@ function App() {
     id: uuid(),
     equipo: "Hijos",
     foto: "https://github.com/Estebnlr.png",
-    nombre: "Esteeban Lucero",
+    nombre: "Esteban Lucero",
     puesto: "Hijo",
     fav: true
   },
