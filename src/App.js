@@ -16,7 +16,7 @@ function App() {
   {
     id: uuid(),
     equipo: "Padres",
-    foto: "https://scontent.fcix2-1.fna.fbcdn.net/v/t39.30808-6/219290804_398625521647941_8414470303276658168_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHlT5daSaXX3RmihILePhO3hRXM45D1BliFFczjkPUGWMeZuK1xltWk7uA9iYYWFOrGx-84IFsGgIFfLXLxT0E-&_nc_ohc=Mbge3kAE9NIAX9yKxLi&_nc_ht=scontent.fcix2-1.fna&oh=00_AfAUkdYLDcNzXFjCZnT-tdp8JOMbz0jrYu9veedPxmgRSA&oe=64679A75",
+    foto: "https://images.unsplash.com/photo-1633412802994-5c058f151b66?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
     nombre: "Manuel Lucero",
     puesto: "Padre",
     fav: false
